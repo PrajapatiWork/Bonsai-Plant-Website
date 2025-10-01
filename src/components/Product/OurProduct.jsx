@@ -58,7 +58,7 @@ const OurProduct = () => {
               <img src={product3} className="rounded-t-lg"></img>
             </div>
             <div className="py-2">
-              <p>Ficus Bonsai</p>
+              <p>Ficus Panda Bonsai</p>
               <p>Price : 1300.00</p>
             </div>
             <div>
