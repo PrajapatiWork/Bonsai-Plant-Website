@@ -1,12 +1,34 @@
-# React + Vite
+<h1>🌱 Bonsai Plant Website</h1>
+A modern, responsive React-based website showcasing a variety of bonsai plants. Built using **React**, **Vite**, and **Tailwind CSS**, this project demonstrates clean component-based architecture, responsive design, and smooth UI transitions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>Video of responsive BonsaiHome website</h3>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/68709fbd-3c26-4a70-860f-95dcdb1b8655
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h3>Live website link:</h3>
+<h3>https://bonsaihome.netlify.app/</h3>
+<h3>Technologies used:</h3>
+
+<ul>
+<li>React</li>
+<li>Vite</li>
+<li>Javascript</li>
+<li>Tailwind CSS</li>
+<li>HTML</li>
+</ul>
+
+<h3>Features:</h3>
+
+- Display a gallery of bonsai plants  
+- Detailed view for each plant (name, description, images etc.)  
+- Responsive design (works on mobile, tablet, desktop)  
+- Easy to extend with additional plant data
+
+<h3>Installation Instructions:</h3>
+
+- git clone https://github.com/PrajapatiWork/Bonsai-Plant-Website.git  
+- cd Bonsai-Plant-Website 
+- npm install
+- npm run dev
